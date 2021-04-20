@@ -1,0 +1,16 @@
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\controlStatements\bin\Debug\net5.0\controlStatements.exe
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\controlStatements\bin\Debug\net5.0\controlStatements.deps.json
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\controlStatements\bin\Debug\net5.0\controlStatements.runtimeconfig.json
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\controlStatements\bin\Debug\net5.0\controlStatements.runtimeconfig.dev.json
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\controlStatements\bin\Debug\net5.0\controlStatements.dll
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\controlStatements\bin\Debug\net5.0\ref\controlStatements.dll
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\controlStatements\bin\Debug\net5.0\controlStatements.pdb
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\controlStatements\obj\Debug\net5.0\controlStatements.csprojAssemblyReference.cache
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\controlStatements\obj\Debug\net5.0\controlStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\controlStatements\obj\Debug\net5.0\controlStatements.AssemblyInfoInputs.cache
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\controlStatements\obj\Debug\net5.0\controlStatements.AssemblyInfo.cs
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\controlStatements\obj\Debug\net5.0\controlStatements.csproj.CoreCompileInputs.cache
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\controlStatements\obj\Debug\net5.0\controlStatements.dll
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\controlStatements\obj\Debug\net5.0\ref\controlStatements.dll
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\controlStatements\obj\Debug\net5.0\controlStatements.pdb
+C:\Users\Dell Latitude 6430u\Desktop\c#_classes\controlStatements\obj\Debug\net5.0\controlStatements.genruntimeconfig.cache
